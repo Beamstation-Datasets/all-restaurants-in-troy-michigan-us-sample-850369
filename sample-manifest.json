@@ -1,0 +1,12 @@
+{
+  "export_job_id": "90eb621b-9acf-4143-aeac-d7f7efa117b9",
+  "id_short": 850369,
+  "published_at": "2026-04-17T07:07:31Z",
+  "repo_name": "all-restaurants-in-troy-michigan-us-sample-850369",
+  "sample_asset_name": "beamstation_850369_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/850369/beamstation_850369_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_records": 30,
+  "sample_sha256": "bcfaf2c720c96e4ea2080724e368197626b6cf3b1b41ce08b52edaee23e53ee3",
+  "sample_size_bytes": 132155,
+  "total_records": 308
+}
