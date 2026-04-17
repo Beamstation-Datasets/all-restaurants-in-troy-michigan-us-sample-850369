@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Troy, Michigan. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Troy, Michigan, US",
+  "export_job_id": "90eb621b-9acf-4143-aeac-d7f7efa117b9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 850369,
+  "location_name": "Troy",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-troy-michigan-us-sample-850369",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/850369/beamstation_850369_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 9.74,
+  "sample_records": 30,
+  "sample_sha256": "bcfaf2c720c96e4ea2080724e368197626b6cf3b1b41ce08b52edaee23e53ee3",
+  "sample_size_bytes": 132155,
+  "total_records": 308,
+  "updated_at": "2026-04-09T10:47:34.629505+00:00"
+}
