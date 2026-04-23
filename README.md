@@ -1,6 +1,6 @@
 # All Restaurants in Troy, Michigan, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `850369` |
 | Location | Troy |
 | Category | Restaurants |
-| Full dataset size | 302 records |
-| Free sample size | 30 records (9.93%) |
-| Last export | 2026-04-16T10:33:26.368463+00:00 |
+| Full dataset size | 252 records |
+| Free sample size | 25 records (9.92%) |
+| Last export | 2026-04-23T10:22:56.196516+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-troy-michigan-us-sample-850369/releases/download/sample-latest/beamstation_850369_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
